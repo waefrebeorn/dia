@@ -109,3 +109,13 @@ Join our [Discord Server](https://discord.gg/pgdB5YRe) for discussions.
 - Our work was heavily inspired by [SoundStorm](https://arxiv.org/abs/2305.09636), [Parakeet](https://jordandarefsky.com/blog/2024/parakeet/), and [Descript Audio Codec](https://github.com/descriptinc/descript-audio-codec).
 - "Nari" is a pure Korean word for lily.
 - We thank Jason Y. for providing help with data filtering.
+
+---
+
+## License
+
+This project is licensed under the **Waefrebeorn Umbrella License v3.0**.
+See the [LICENSE](LICENSE) file for the full license text.
+
+The Waefrebeorn Umbrella License is a custom source-available license.
+It is not OSI-approved and not FSF-approved.
